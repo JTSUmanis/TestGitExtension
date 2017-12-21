@@ -12,7 +12,7 @@ Method ToJSON() As %String
 	set tDyna."alert_time" = ..AlertTime
 	set tDyna."session_id" = ..SessionId
 	
-	quit tDyna.%ToJSON()
+	quit tDyna.%ToJSON()j
 	test
 }
 
