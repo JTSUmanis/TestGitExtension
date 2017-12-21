@@ -13,7 +13,7 @@ Method ToJSON() As %String
 	set tDyna."session_id" = ..SessionId
 	
 	quit tDyna.%ToJSON()
-	
+	test
 }
 
 
