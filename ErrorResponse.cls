@@ -1,6 +1,6 @@
 Class EDEAL.Msg.Common.ErrorResponse Extends Ens.AlertRequest
 {
-
+test
 Method ToJSON() As %String
 {
 
